@@ -33,12 +33,7 @@ now look at the screen shot
 
 ## todo-list
    
-    ---
+    ---this project will update soon
 
-- [] responsiveity for phone`s
-
-- [] fix some width
-
-- [] add some borders
 
 
