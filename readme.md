@@ -1,4 +1,4 @@
-#   One page of digikala
+#   home page of digikala
 
 this is  Home page of a web store [digikala] (https://www.digikala.com/)
 ---
