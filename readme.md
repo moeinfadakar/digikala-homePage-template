@@ -1,6 +1,6 @@
-  One page of digikala
 
-i designed one  page of digikala webstore its a full copy of it and there is no diffrence between this and main page od digikala
+this is main page of digikala (an iranian web store) [digikala] (https://www.digikala.com/)
+
 ---
 
 ## html
