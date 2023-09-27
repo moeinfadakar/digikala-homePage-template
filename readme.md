@@ -24,7 +24,7 @@ i designed one  page of digikala webstore its a full copy of it and there is no 
 now look at the screen shot
 ```
 
-![screenshot](root.png)
+![screenshot](www.png)
 
 
 ## svg added to this project!!
